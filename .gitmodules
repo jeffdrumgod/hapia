@@ -1,0 +1,3 @@
+[submodule "app/vendors/CodeIgniter"]
+	path = app/vendors/CodeIgniter
+	url = https://github.com/bcit-ci/CodeIgniter.git
