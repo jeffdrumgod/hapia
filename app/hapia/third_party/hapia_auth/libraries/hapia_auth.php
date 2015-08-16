@@ -12,9 +12,11 @@ class Hapia_auth
 	public function __construct()
 	{
 		$this->CI =& get_instance();
-
 		$this->CI->load->config('hapia_auth');
 	}
 
+	public function setup()
+	{
+	}
 
 }
