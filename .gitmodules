@@ -4,3 +4,6 @@
 [submodule "app/vendors/codeigniter-restserver"]
 	path = app/vendors/codeigniter-restserver
 	url = https://github.com/chriskacerguis/codeigniter-restserver.git
+[submodule "app/vendors/Doctrine2CodeIgniter"]
+	path = app/vendors/Doctrine2CodeIgniter
+	url = https://github.com/jeffdrumgod/Doctrine2CodeIgniter.git
